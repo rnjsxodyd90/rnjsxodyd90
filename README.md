@@ -8,7 +8,7 @@ MSc Computer Science student at TU Delft, focusing on distributed systems. Based
 - **Team onboarding:** bring internal teams (HR, security, sales and marketing, IT) onto a shared Azure AI platform, covering Terraform stacks, databases, company sign-in, ingress and CI/CD, from first request to production
 - **AI agents and assistants:** an agent that turns approved access requests into reviewed Terraform changes, prompt and skill vulnerability scanning and prompt hardening for the security team, a news agent, and a personal assistant pilot
 - **AI gateway:** OpenAI and Anthropic models served to internal apps through one managed gateway
-- **Security and identity automation:** secret scanning on pull requests and credential rotation, Entra ID access and guest lifecycle automation, network location sync
+- **Security and identity automation:** Gitleaks secret scanning on pull requests with credentials moved into Key Vault, NetBox to Entra ID named-location sync for Conditional Access, Entra ID access package and guest lifecycle automation
 
 ### Tools I work with
 
