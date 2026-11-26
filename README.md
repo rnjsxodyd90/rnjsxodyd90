@@ -10,16 +10,9 @@ MSc Computer Science student at TU Delft, focusing on distributed systems. Based
 - **AI gateway:** OpenAI and Anthropic models served to internal apps through one managed gateway
 - **Security and identity automation:** secret scanning on pull requests and credential rotation, Entra ID access and guest lifecycle automation, network location sync
 
-### Open source and projects
-
-- **Open source:** fixed a regression in HashiCorp's Terraform AzureAD provider where Microsoft Graph started rejecting a filter, breaking every new access package catalog association ([#1979](https://github.com/hashicorp/terraform-provider-azuread/pull/1979), merged)
-- **Kubernetes / DevOps:** Helm charts, Istio canary deployments and Prometheus/Grafana monitoring for a TU Delft distributed applications project ([doda2025-team21/operation](https://github.com/doda2025-team21/operation))
-- **Research:** f-agnostic adaptive robust clipping for Byzantine-robust distributed learning ([CS4725](https://github.com/rnjsxodyd90/CS4725_Scalable_learning_systems))
-- **Side projects:** [Jev Relay](https://github.com/rnjsxodyd90/jev-relay) (English-to-Dutch conversation assistant for iOS), [Windows Style Mac Explorer](https://github.com/rnjsxodyd90/windows-style-mac-explorer) (SwiftUI file manager), [Mac Dev Setup 2026](https://github.com/rnjsxodyd90/mac-dev-setup-2026)
-
 ### Tools I work with
 
-Azure · Terraform · Kubernetes (CKA) · Python · Swift · LLM APIs · Prometheus · Grafana
+Azure · Terraform · Kubernetes (CKA) · Python · PowerShell · Swift · LLM APIs · Prometheus · Grafana
 
 ### Links
 
