@@ -1,6 +1,6 @@
 # Hi, I'm Tae
 
-Forward Deployed Engineer at [Nebius](https://nebius.com). I onboard internal teams onto our Azure AI platform, build AI agents and assistants that take repetitive work off IT and security teams, and run the infrastructure underneath them.
+Forward Deployed Engineer at [Nebius](https://nebius.com). I guide internal teams onto our Azure AI platform, build AI agents and assistants that take repetitive work off IT and security teams, and run the infrastructure underneath them.
 MSc Computer Science student at TU Delft, focusing on distributed systems. Based in the Netherlands.
 
 ### At Nebius
