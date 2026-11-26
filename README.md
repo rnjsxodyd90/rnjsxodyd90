@@ -12,7 +12,7 @@ MSc Computer Science student at TU Delft, focusing on distributed systems. Based
 
 ### Tools I work with
 
-Azure · Terraform · Kubernetes (CKA) · Python · PowerShell · Swift · LLM APIs · Prometheus · Grafana
+Azure · Terraform · Kubernetes (CKA) · Python · Go · PowerShell · Swift · LLM APIs · Prometheus · Grafana
 
 ### Links
 
